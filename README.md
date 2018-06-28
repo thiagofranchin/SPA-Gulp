@@ -1,12 +1,12 @@
 # SPA GULP #
 
-## Instalação ##
-
 - Clone o repositório com o comando:
 
 ```console
 git clone https://github.com/thiagofranchin/SPA-Gulp.git
 ```
+
+## Instalação ##
 - Caso não tenha o Gulp instalado em sua máquina execulte o comando abaixo no console:
 
 ## Mac ##
